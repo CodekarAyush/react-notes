@@ -184,4 +184,3 @@ const apiKey = process.env.REACT_APP_API_KEY;
 ```
 
 ---
-Ye React ke basic aur important concepts hain jo kisi bhi developer ko aane chahiye. 😊
